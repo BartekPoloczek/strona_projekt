@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: white;
+  color: #111;
+}
+
+header {
+  background-color: #d4213d;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+main {
+  padding: 2rem 1rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.mecze h2, .mecze h3 {
+  color: #d4213d;
+  margin-bottom: 0.5rem;
+}
+
+.mecze h1 {
+    text-align: center;
+    color: #d4213d;
+    margin-bottom: 0.5rem;
+}
+
+.blok-turniej {
+  background-color: #cccccc;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.blok-turniej ul {
+  padding-left: 1.2rem;
+}
+
+footer {
+  background-color: #d4213d;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
