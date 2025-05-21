@@ -1,0 +1,18 @@
+body.stronaomnie {
+  background-image: url("polska.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.omnie {
+background-color: white;
+  border-radius: 25px;
+}
+
+.kontakt label {
+background-color: white;
+  border-radius: 5px;
+  font-weight: bold;
+}
